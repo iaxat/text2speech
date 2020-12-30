@@ -183,3 +183,15 @@ x509.genkey
 
 # Documentation toolchain
 sphinx_*/
+
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
